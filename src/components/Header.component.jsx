@@ -6,7 +6,7 @@ function Header() {
         <header>
             <h1>
                 <HighlightIcon />
-                Pravar's Keeper
+                Sree's Keeper
             </h1>
         </header>
     );
